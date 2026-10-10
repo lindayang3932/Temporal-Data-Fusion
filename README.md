@@ -72,8 +72,8 @@ Reviewed related work on Hájek estimation, density-ratio estimation, and time-s
 
 ## Repository Contents
 
-- **data_fusion (5).pdf:** Research notes containing the problem formulation, mathematical derivations, estimator properties, literature review, and simulation setup.
-- **data_fusion (3).ipynb:** Python implementation of synthetic data generation, density-ratio estimation, weighted estimators, and diagnostic visualizations.
+- **data_fusion_notes.pdf:** Research notes containing the problem formulation, mathematical derivations, estimator properties, literature review, and simulation setup.
+- **data_fusion_simulation.ipynb:** Python implementation of synthetic data generation, density-ratio estimation, weighted estimators, and diagnostic visualizations.
 
 ## Implementation
 
