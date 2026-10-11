@@ -87,4 +87,4 @@ The Jupyter notebook generates synthetic data and does not require an external d
 
 This repository documents exploratory methodological research rather than a finalized estimation framework.
 
-The theoretical development and simulations rely on assumptions about the stability of the relative sampling mechanism across time. Potential extensions include incorporating covariates, modeling time-varying selection bias, and establishing statistical guarantees under broader conditions.
+The theoretical development and simulations rely on assumptions about the stability of the relative sampling mechanism across time. Potential extensions include incorporating covariates and modeling time-varying selection bias.
