@@ -75,16 +75,4 @@ Reviewed related work on Hájek estimation, density-ratio estimation, and time-s
 - **data_fusion_notes.pdf:** Research notes containing the problem formulation, mathematical derivations, estimator properties, literature review, and simulation setup.
 - **data_fusion_simulation.ipynb:** Python implementation of synthetic data generation, density-ratio estimation, weighted estimators, and diagnostic visualizations.
 
-## Implementation
 
-**Language:** Python
-
-**Libraries:** NumPy, SciPy, scikit-learn, Matplotlib
-
-The Jupyter notebook generates synthetic data and does not require an external dataset.
-
-## Research Scope
-
-This repository documents exploratory methodological research rather than a finalized estimation framework.
-
-The theoretical development and simulations rely on assumptions about the stability of the relative sampling mechanism across time. Potential extensions include incorporating covariates and modeling time-varying selection bias.
